@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://kalebu.github.io/blog</id>
+    <title>Mtaa Documentation Blog</title>
+    <updated>2020-05-31T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://kalebu.github.io/blog"/>
+    <subtitle>Mtaa Documentation Blog</subtitle>
+    <icon>https://kalebu.github.io/img/4-2-python-logo-picture_64x64.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Integrating Mtaa with Flask]]></title>
+        <id>mtaa with flask</id>
+        <link href="https://kalebu.github.io/mtaa-docs/blog/mtaa with flask"/>
+        <updated>2020-05-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello folks, you probably know mtaa by right now plus its basics, you're now looking how mtaa is integrated in real development environment, well this article its for you !!]]></summary>
+    </entry>
+</feed>

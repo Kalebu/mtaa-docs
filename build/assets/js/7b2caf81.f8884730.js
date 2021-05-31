@@ -1,0 +1,1 @@
+(self.webpackChunkmtaa_doc=self.webpackChunkmtaa_doc||[]).push([[76],{2754:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/mtaa-docs/blog/tags","slug":"flask","name":"flask","count":1,"permalink":"/mtaa-docs/blog/tags/flask"}')}}]);

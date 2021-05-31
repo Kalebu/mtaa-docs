@@ -1,0 +1,1 @@
+(self.webpackChunkmtaa_doc=self.webpackChunkmtaa_doc||[]).push([[471],{3126:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/mtaa-docs/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/mtaa-docs/blog/tags/hello"}')}}]);

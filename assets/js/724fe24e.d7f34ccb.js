@@ -1,1 +1,0 @@
-(self.webpackChunkmtaa_doc=self.webpackChunkmtaa_doc||[]).push([[462],{919:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/mtaa/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"/mtaa/blog/tags/docusaurus"}')}}]);

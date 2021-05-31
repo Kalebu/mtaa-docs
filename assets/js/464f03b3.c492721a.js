@@ -1,0 +1,1 @@
+(self.webpackChunkmtaa_doc=self.webpackChunkmtaa_doc||[]).push([[218],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/mtaa-docs/blog/welcome"},{"title":"Hello","permalink":"/mtaa-docs/blog/hello-world"},{"title":"Hola","permalink":"/mtaa-docs/blog/hola"}]}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkmtaa_doc=self.webpackChunkmtaa_doc||[]).push([[140],{2148:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/mtaa/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/mtaa/blog/tags/facebook"}')}}]);

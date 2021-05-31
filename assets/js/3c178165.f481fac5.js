@@ -1,0 +1,1 @@
+(self.webpackChunkmtaa_doc=self.webpackChunkmtaa_doc||[]).push([[430],{9298:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/mtaa/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

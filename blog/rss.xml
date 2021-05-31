@@ -4,29 +4,15 @@
         <title>Mtaa Documentation Blog</title>
         <link>https://kalebu.github.io/blog</link>
         <description>Mtaa Documentation Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 May 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://kalebu.github.io/mtaa-docs/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://kalebu.github.io/mtaa-docs/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hola]]></title>
-            <link>https://kalebu.github.io/mtaa-docs/blog/hola</link>
-            <guid>hola</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <title><![CDATA[Integrating Mtaa with Flask]]></title>
+            <link>https://kalebu.github.io/mtaa-docs/blog/mtaa with flask</link>
+            <guid>mtaa with flask</guid>
+            <pubDate>Sun, 31 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hello folks, you probably know mtaa by right now plus its basics, you're now looking how mtaa is integrated in real development environment, well this article its for you !!]]></description>
         </item>
     </channel>
 </rss>

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mtaa-api/rest",
+  "id": "mtaa-api/rest",
+  "isDocsHomePage": false,
+  "title": "REST API",
+  "description": "",
+  "source": "@site/docs/mtaa-api/rest.md",
+  "sourceDirName": "mtaa-api",
+  "slug": "/mtaa-api/rest",
+  "permalink": "/mtaa-docs/docs/mtaa-api/rest",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/docs/mtaa-api/rest.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/mtaa-docs/docs/mtaa-api/intro"
+  },
+  "next": {
+    "title": "GraphQL",
+    "permalink": "/mtaa-docs/docs/mtaa-api/graphl"
+  }
+}

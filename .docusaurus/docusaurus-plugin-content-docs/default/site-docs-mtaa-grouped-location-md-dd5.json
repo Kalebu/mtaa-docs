@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mtaa/grouped_location",
+  "id": "mtaa/grouped_location",
+  "isDocsHomePage": false,
+  "title": "Grouped locations",
+  "description": "So far we have seen how to use mtaa to access certain information at a particular location level, now let's see how we can use it to fetch grouped information such as all regions, districts, wards , districts and also fetching whole tree from a particular location level",
+  "source": "@site/docs/mtaa/grouped_location.md",
+  "sourceDirName": "mtaa",
+  "slug": "/mtaa/grouped_location",
+  "permalink": "/mtaa-docs/docs/mtaa/grouped_location",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/docs/mtaa/grouped_location.md",
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting started",
+    "permalink": "/mtaa-docs/docs/mtaa/getting_started"
+  },
+  "next": {
+    "title": "More Examples",
+    "permalink": "/mtaa-docs/docs/mtaa/more_examples"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "permalink": "/mtaa-docs/blog/mtaa with flask",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/blog/blog/2020-05-31-mtaa-with-flask.md",
+  "source": "@site/blog/2020-05-31-mtaa-with-flask.md",
+  "title": "Integrating Mtaa with Flask",
+  "description": "Hello folks, you probably know mtaa by right now plus its basics, you're now looking how mtaa is integrated in real development environment, well this article its for you !!",
+  "date": "2020-05-31T00:00:00.000Z",
+  "formattedDate": "May 31, 2020",
+  "tags": [
+    {
+      "label": "flask",
+      "permalink": "/mtaa-docs/blog/tags/flask"
+    },
+    {
+      "label": "mtaa",
+      "permalink": "/mtaa-docs/blog/tags/mtaa"
+    },
+    {
+      "label": "jquery",
+      "permalink": "/mtaa-docs/blog/tags/jquery"
+    }
+  ],
+  "readingTime": 0.345,
+  "truncated": false
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "mtaa-api/getting_started",
+  "id": "mtaa-api/getting_started",
+  "isDocsHomePage": false,
+  "title": "Getting started",
+  "description": "",
+  "source": "@site/docs/mtaa-api/getting_started.md",
+  "sourceDirName": "mtaa-api",
+  "slug": "/mtaa-api/getting_started",
+  "permalink": "/mtaa-docs/docs/mtaa-api/getting_started",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/docs/mtaa-api/getting_started.md",
+  "version": "current",
+  "frontMatter": {
+    "siebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/mtaa-docs/docs/mtaa-api/intro"
+  },
+  "next": {
+    "title": "GraphQL",
+    "permalink": "/mtaa-docs/docs/mtaa-api/graphl"
+  }
+}

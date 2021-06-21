@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mtaa/getting_started",
+  "id": "mtaa/getting_started",
+  "isDocsHomePage": false,
+  "title": "Getting started",
+  "description": "The library is very straight forward, at the very top of the library there is country which is tanzania and at the very bottoms are places in a given street and you access the locations as attributes just as shown in the example below;",
+  "source": "@site/docs/mtaa/getting_started.md",
+  "sourceDirName": "mtaa",
+  "slug": "/mtaa/getting_started",
+  "permalink": "/mtaa-docs/docs/mtaa/getting_started",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/docs/mtaa/getting_started.md",
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "installation",
+    "permalink": "/mtaa-docs/docs/mtaa/installation"
+  },
+  "next": {
+    "title": "Grouped locations",
+    "permalink": "/mtaa-docs/docs/mtaa/grouped_location"
+  }
+}

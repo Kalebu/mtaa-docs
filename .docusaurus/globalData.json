@@ -1,0 +1,146 @@
+{
+  "docusaurus-theme-redoc": {
+    "default": {
+      "redocOptions": {},
+      "lightTheme": {
+        "colors": {
+          "primary": {
+            "main": "#25c2a0"
+          }
+        },
+        "typography": {
+          "fontFamily": "var(--ifm-font-family-base)",
+          "fontSize": "var(--ifm-font-size-base)",
+          "lineHeight": "var(--ifm-line-height-base)",
+          "fontWeightLight": "var(--ifm-font-weight-light)",
+          "fontWeightRegular": "var(--ifm-font-weight-base)",
+          "fontWeightBold": "var(--ifm-font-weight-bold)",
+          "headings": {
+            "fontFamily": "var(--ifm-font-family-base)",
+            "fontWeight": "var(--ifm-font-weight-semibold)",
+            "lineHeight": "var(--ifm-line-height-base)"
+          },
+          "code": {
+            "fontFamily": "var(--ifm-font-family-monospace)",
+            "lineHeight": "var(--ifm-pre-line-height)"
+          }
+        },
+        "sidebar": {
+          "width": "300px",
+          "backgroundColor": "#ffffff"
+        },
+        "rightPanel": {
+          "backgroundColor": "#303846"
+        }
+      },
+      "darkTheme": {
+        "colors": {
+          "primary": {
+            "main": "#25c2a0"
+          },
+          "text": {
+            "primary": "#f5f6f7",
+            "secondary": "rgba(255, 255, 255, 1)"
+          },
+          "gray": {
+            "50": "#FAFAFA",
+            "100": "#F5F5F5"
+          },
+          "border": {
+            "dark": "#ffffff",
+            "light": "rgba(0,0,0, 0.1)"
+          }
+        },
+        "typography": {
+          "fontFamily": "var(--ifm-font-family-base)",
+          "fontSize": "var(--ifm-font-size-base)",
+          "lineHeight": "var(--ifm-line-height-base)",
+          "fontWeightLight": "var(--ifm-font-weight-light)",
+          "fontWeightRegular": "var(--ifm-font-weight-base)",
+          "fontWeightBold": "var(--ifm-font-weight-bold)",
+          "headings": {
+            "fontFamily": "var(--ifm-font-family-base)",
+            "fontWeight": "var(--ifm-font-weight-semibold)",
+            "lineHeight": "var(--ifm-line-height-base)"
+          },
+          "code": {
+            "fontFamily": "var(--ifm-font-family-monospace)",
+            "lineHeight": "var(--ifm-pre-line-height)"
+          }
+        },
+        "sidebar": {
+          "width": "300px",
+          "backgroundColor": "rgb(24, 25, 26)",
+          "textColor": "#f5f6f7",
+          "arrow": {
+            "color": "#f5f6f7"
+          }
+        },
+        "rightPanel": {
+          "backgroundColor": "#303846"
+        },
+        "schema": {
+          "nestedBackground": "rgb(24, 25, 26)",
+          "typeNameColor": "rgba(255, 255, 255, 1)",
+          "typeTitleColor": "rgba(255, 255, 255, 1)"
+        }
+      }
+    }
+  },
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/mtaa-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/mtaa-docs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/mtaa-docs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mtaa-api/graphl",
+              "path": "/mtaa-docs/docs/mtaa-api/graphl",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mtaa-api/intro",
+              "path": "/mtaa-docs/docs/mtaa-api/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mtaa-api/rest",
+              "path": "/mtaa-docs/docs/mtaa-api/rest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mtaa/getting_started",
+              "path": "/mtaa-docs/docs/mtaa/getting_started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mtaa/grouped_location",
+              "path": "/mtaa-docs/docs/mtaa/grouped_location",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mtaa/installation",
+              "path": "/mtaa-docs/docs/mtaa/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mtaa/more_examples",
+              "path": "/mtaa-docs/docs/mtaa/more_examples",
+              "sidebar": "tutorialSidebar"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

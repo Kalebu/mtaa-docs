@@ -1,0 +1,45 @@
+{
+  "docsSidebars": {
+    "sidebar": [
+      {
+        "collapsed": true,
+        "type": "category",
+        "label": "API",
+        "items": [
+          {
+            "href": "/mtaa-docs/api/",
+            "label": "Returns all regions present in Tanzania",
+            "type": "link"
+          },
+          {
+            "href": "/mtaa-docs/api/returns-all-districts-in-region",
+            "label": "Returns all districts in region",
+            "type": "link"
+          },
+          {
+            "href": "/mtaa-docs/api/returns-all-wards-in-a-district",
+            "label": "Returns all wards in a district",
+            "type": "link"
+          },
+          {
+            "href": "/mtaa-docs/api/returns-all-streets-in-a-ward",
+            "label": "Returns all streets in a ward",
+            "type": "link"
+          },
+          {
+            "href": "/mtaa-docs/api/returns-all-neighborhood-in-a-street",
+            "label": "Returns all neighborhood in a street",
+            "type": "link"
+          }
+        ]
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/mtaa-docs/api/": "sidebar",
+    "/mtaa-docs/api/returns-all-districts-in-region": "sidebar",
+    "/mtaa-docs/api/returns-all-wards-in-a-district": "sidebar",
+    "/mtaa-docs/api/returns-all-streets-in-a-ward": "sidebar",
+    "/mtaa-docs/api/returns-all-neighborhood-in-a-street": "sidebar"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mtaa/installation",
+  "id": "mtaa/installation",
+  "isDocsHomePage": false,
+  "title": "installation",
+  "description": "use pip to install it just as shown below;",
+  "source": "@site/docs/mtaa/installation.md",
+  "sourceDirName": "mtaa",
+  "slug": "/mtaa/installation",
+  "permalink": "/mtaa-docs/docs/mtaa/installation",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/docs/mtaa/installation.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "A strory behind",
+    "permalink": "/mtaa-docs/docs/intro"
+  },
+  "next": {
+    "title": "Getting started",
+    "permalink": "/mtaa-docs/docs/mtaa/getting_started"
+  }
+}

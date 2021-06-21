@@ -1,0 +1,1 @@
+Fetches all regions present in Tanzania and then return a response as json

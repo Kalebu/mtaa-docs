@@ -1,0 +1,74 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "A strory behind",
+        "href": "/mtaa-docs/docs/intro"
+      },
+      {
+        "type": "category",
+        "label": "Mtaa",
+        "items": [
+          {
+            "type": "link",
+            "label": "installation",
+            "href": "/mtaa-docs/docs/mtaa/installation"
+          },
+          {
+            "type": "link",
+            "label": "Getting started",
+            "href": "/mtaa-docs/docs/mtaa/getting_started"
+          },
+          {
+            "type": "link",
+            "label": "Grouped locations",
+            "href": "/mtaa-docs/docs/mtaa/grouped_location"
+          },
+          {
+            "type": "link",
+            "label": "More Examples",
+            "href": "/mtaa-docs/docs/mtaa/more_examples"
+          }
+        ],
+        "collapsed": false
+      },
+      {
+        "type": "category",
+        "label": "Mtaa API",
+        "items": [
+          {
+            "type": "link",
+            "label": "Introduction",
+            "href": "/mtaa-docs/docs/mtaa-api/intro"
+          },
+          {
+            "type": "link",
+            "label": "REST API",
+            "href": "/mtaa-docs/docs/mtaa-api/rest"
+          },
+          {
+            "type": "link",
+            "label": "GraphQL",
+            "href": "/mtaa-docs/docs/mtaa-api/graphl"
+          }
+        ],
+        "collapsed": false
+      }
+    ]
+  },
+  "permalinkToSidebar": {
+    "/mtaa-docs/docs/intro": "tutorialSidebar",
+    "/mtaa-docs/docs/mtaa-api/graphl": "tutorialSidebar",
+    "/mtaa-docs/docs/mtaa-api/intro": "tutorialSidebar",
+    "/mtaa-docs/docs/mtaa-api/rest": "tutorialSidebar",
+    "/mtaa-docs/docs/mtaa/getting_started": "tutorialSidebar",
+    "/mtaa-docs/docs/mtaa/grouped_location": "tutorialSidebar",
+    "/mtaa-docs/docs/mtaa/installation": "tutorialSidebar",
+    "/mtaa-docs/docs/mtaa/more_examples": "tutorialSidebar"
+  }
+}

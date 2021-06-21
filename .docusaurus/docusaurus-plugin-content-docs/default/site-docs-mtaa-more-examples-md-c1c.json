@@ -1,0 +1,26 @@
+{
+  "unversionedId": "mtaa/more_examples",
+  "id": "mtaa/more_examples",
+  "isDocsHomePage": false,
+  "title": "More Examples",
+  "description": "Let's see other examples on use case of the package;",
+  "source": "@site/docs/mtaa/more_examples.md",
+  "sourceDirName": "mtaa",
+  "slug": "/mtaa/more_examples",
+  "permalink": "/mtaa-docs/docs/mtaa/more_examples",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/docs/mtaa/more_examples.md",
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Grouped locations",
+    "permalink": "/mtaa-docs/docs/mtaa/grouped_location"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/mtaa-docs/docs/mtaa-api/intro"
+  }
+}

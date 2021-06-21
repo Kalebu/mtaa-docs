@@ -1,0 +1,22 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "isDocsHomePage": false,
+  "title": "A strory behind",
+  "description": "A package consisting of all Tanzania locations from region to streets in a easy accessible way made by kalebu",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/mtaa-docs/docs/intro",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/docs/intro.md",
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "installation",
+    "permalink": "/mtaa-docs/docs/mtaa/installation"
+  }
+}

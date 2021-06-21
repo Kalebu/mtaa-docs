@@ -1,0 +1,123 @@
+{
+  "/mtaa-docs/-d92": {
+    "component": "component---site-src-pages-index-jsc-4-f-f99",
+    "config": "config---mtaa-docs-5-e-9-ad5"
+  },
+  "/mtaa-docs/__docusaurus/debug-3f2": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/mtaa-docs/__docusaurus/debug/config-281": {
+    "component": "component---theme-debug-config-23-a-2ff"
+  },
+  "/mtaa-docs/__docusaurus/debug/content-a52": {
+    "component": "component---theme-debug-contentba-8-ce7",
+    "allContent": "allContent---mtaa-docs-docusaurus-debug-content-246-8c8"
+  },
+  "/mtaa-docs/__docusaurus/debug/globalData-b35": {
+    "component": "component---theme-debug-global-dataede-0fa"
+  },
+  "/mtaa-docs/__docusaurus/debug/metadata-55e": {
+    "component": "component---theme-debug-site-metadata-68-e-3d4"
+  },
+  "/mtaa-docs/__docusaurus/debug/registry-d93": {
+    "component": "component---theme-debug-registry-679-501"
+  },
+  "/mtaa-docs/__docusaurus/debug/routes-f63": {
+    "component": "component---theme-debug-routes-946-699"
+  },
+  "/mtaa-docs/api/0-62a": {
+    "component": "component---theme-api-docf-0-a-77e",
+    "spec": "spec---mtaa-docs-api-07-f-3-c64",
+    "layoutProps": "layoutProps---mtaa-docs-api-0-b-01-b1d"
+  },
+  "/mtaa-docs/blog-16f": {
+    "component": "component---theme-blog-list-pagea-6-a-7ba",
+    "sidebar": "sidebar---mtaa-docs-blog-6-dd-bd1",
+    "items": [
+      {
+        "content": "content---mtaa-docs-blogc-26-7dd"
+      }
+    ],
+    "metadata": "metadata---mtaa-docs-blog-7-be-d50"
+  },
+  "/mtaa-docs/blog/mtaa with flask-901": {
+    "component": "component---theme-blog-post-pageccc-cab",
+    "sidebar": "sidebar---mtaa-docs-blog-6-dd-bd1",
+    "content": "content---mtaa-docs-blog-mtaa-with-flaskad-4-8b2"
+  },
+  "/mtaa-docs/blog/tags-456": {
+    "component": "component---theme-blog-tags-list-page-01-a-d0b",
+    "sidebar": "sidebar---mtaa-docs-blog-6-dd-bd1",
+    "tags": "tags---mtaa-docs-blog-tags-477-6ad"
+  },
+  "/mtaa-docs/blog/tags/flask-3c5": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---mtaa-docs-blog-6-dd-bd1",
+    "items": [
+      {
+        "content": "content---mtaa-docs-blogc-26-7dd"
+      }
+    ],
+    "metadata": "metadata---mtaa-docs-blog-tags-flask-7-b-2-679"
+  },
+  "/mtaa-docs/blog/tags/jquery-658": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---mtaa-docs-blog-6-dd-bd1",
+    "items": [
+      {
+        "content": "content---mtaa-docs-blogc-26-7dd"
+      }
+    ],
+    "metadata": "metadata---mtaa-docs-blog-tags-jqueryeb-1-d2e"
+  },
+  "/mtaa-docs/blog/tags/mtaa-9cf": {
+    "component": "component---theme-blog-tags-posts-page-687-b6c",
+    "sidebar": "sidebar---mtaa-docs-blog-6-dd-bd1",
+    "items": [
+      {
+        "content": "content---mtaa-docs-blogc-26-7dd"
+      }
+    ],
+    "metadata": "metadata---mtaa-docs-blog-tags-mtaa-019-719"
+  },
+  "/mtaa-docs/markdown-page-968": {
+    "component": "component---theme-mdx-page-1-f-3-b90",
+    "content": "content---mtaa-docs-markdown-page-393-f55"
+  },
+  "/mtaa-docs/docs-bcf": {
+    "component": "component---theme-doc-page-1-be-9be",
+    "versionMetadata": "versionMetadata---mtaa-docs-docs-935-0f3"
+  },
+  "/mtaa-docs/docs/intro-6ea": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mtaa-docs-docs-intro-0-e-3-2c4"
+  },
+  "/mtaa-docs/docs/mtaa-api/graphl-7e2": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mtaa-docs-docs-mtaa-api-graphlcfd-013"
+  },
+  "/mtaa-docs/docs/mtaa-api/intro-9d5": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mtaa-docs-docs-mtaa-api-introba-5-b11"
+  },
+  "/mtaa-docs/docs/mtaa-api/rest-e6e": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mtaa-docs-docs-mtaa-api-rest-201-92d"
+  },
+  "/mtaa-docs/docs/mtaa/getting_started-0ce": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mtaa-docs-docs-mtaa-getting-started-445-9c8"
+  },
+  "/mtaa-docs/docs/mtaa/grouped_location-b4c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mtaa-docs-docs-mtaa-grouped-locationdd-5-29a"
+  },
+  "/mtaa-docs/docs/mtaa/installation-710": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mtaa-docs-docs-mtaa-installationd-13-8cf"
+  },
+  "/mtaa-docs/docs/mtaa/more_examples-f6c": {
+    "component": "component---theme-doc-item-178-a40",
+    "content": "content---mtaa-docs-docs-mtaa-more-examplesc-1-c-aa1"
+  }
+}

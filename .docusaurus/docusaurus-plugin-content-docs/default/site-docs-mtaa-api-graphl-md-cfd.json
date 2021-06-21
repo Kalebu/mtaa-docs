@@ -1,0 +1,21 @@
+{
+  "unversionedId": "mtaa-api/graphl",
+  "id": "mtaa-api/graphl",
+  "isDocsHomePage": false,
+  "title": "GraphQL",
+  "description": "",
+  "source": "@site/docs/mtaa-api/graphl.md",
+  "sourceDirName": "mtaa-api",
+  "slug": "/mtaa-api/graphl",
+  "permalink": "/mtaa-docs/docs/mtaa-api/graphl",
+  "editUrl": "https://github.com/Kalebu/mtaa-docs/edit/main/docs/mtaa-api/graphl.md",
+  "version": "current",
+  "frontMatter": {
+    "siebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "REST API",
+    "permalink": "/mtaa-docs/docs/mtaa-api/rest"
+  }
+}
